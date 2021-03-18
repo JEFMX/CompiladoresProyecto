@@ -1,0 +1,27 @@
+double hola,adios,fin;
+<*int hola1;--numero entero
+float hola2;
+double p;
+char pdoblemente;
+float sala3;
+float [5][5][20] array3;*>
+int [5][5] arraybin;
+char [5] arraysimple;
+int otro;
+--inicio de funcion
+func int ala(float decente, char kll,double a){
+	while(i<t){
+		if(true){
+			decente=1;
+			return 3;
+		}	
+	}
+	switch(r){
+		case 0:
+			break;
+	}
+	return hola1;
+}
+func int funcion2(float s2, int i){
+	return 0;
+}
